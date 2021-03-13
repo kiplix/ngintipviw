@@ -27,7 +27,7 @@ $pkg install php
 $pkg install git
 $pkg install mc
 $ git clone https://github.com/kiplix/ngintipviw
-$ cd ngitipviw
+$ cd ngintipviw
 $ php login.php
 $ php run.php
 ```
