@@ -16,7 +16,7 @@ echo "
 	$---------$--------$
 	
 	\n";
-echo "[o] $$$$$$$$$$ Auto  Story Viewer by Photolooz $$$$$$$$$$$$$$$$$$ [o]\n";
+echo "[o] $$ [o]\n";
 echo "  $----$----$  ðŸ¤‘ $----$---$   \n\n";
 echo "  --ðŸ˜
  \n\n";
